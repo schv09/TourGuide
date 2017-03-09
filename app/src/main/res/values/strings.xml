@@ -1,0 +1,141 @@
+<resources>
+    <string name="app_name">Tour Guide</string>
+
+    <!-- Category names. -->
+    <string name="restaurants_category">Eating</string>
+    <string name="shopping_category">Shopping</string>
+    <string name="churches_category">Churches</string>
+    <string name="outdoors_category">Outdoors</string>
+
+    <!-- More info. -->
+    <string name="read_more">Read More</string>
+
+    <!-- Restaurant names. -->
+    <string name="faisca">Faisca do Brasil</string>
+    <string name="pampa">La Pampa Argentina</string>
+    <string name="la_hola">La Hola</string>
+    <string name="koi">Koi</string>
+    <string name="laca_laca">Laca Laca</string>
+    <string name="margoth">Típicos Margoth</string>
+    <string name="donde_leo">Donde Leo</string>
+    <string name="picasso">Picasso Stone Flame Oven</string>
+
+    <!-- Restaurant food types. -->
+    <string name="faisca_type">Brazilian</string>
+    <string name="pampa_type">Steakhouse, seafood</string>
+    <string name="la_hola_type">Seafood</string>
+    <string name="koi_type">Japanese</string>
+    <string name="laca_laca_type">Mexican</string>
+    <string name="margoth_type">Typical salvadorean</string>
+    <string name="donde_leo_type">Mediterranean</string>
+    <string name="picasso_type">Italian, mediterranean</string>
+
+    <!-- Restaurant pricing level. -->
+    <string name="faisca_price">$$$$</string>
+    <string name="pampa_price">$$ - $$$</string>
+    <string name="la_hola_price">$$ - $$$</string>
+    <string name="koi_price">$$ - $$$</string>
+    <string name="laca_laca_price">$$ - $$$</string>
+    <string name="margoth_price">$</string>
+    <string name="donde_leo_price">$$ - $$$</string>
+    <string name="picasso_price">$$ - $$$</string>
+
+    <!-- Restaurant links -->
+    <string name="faisca_link">https://www.facebook.com/pages/Faisca-Do-Brasil/618147711553464</string>
+    <string name="pampa_link">https://www.facebook.com/lapamparestaurantes/</string>
+    <string name="la_hola_link">https://www.facebook.com/LaHolaBetosRestaurante/</string>
+    <string name="koi_link">https://www.facebook.com/KoiSV/</string>
+    <string name="laca_laca_link">https://www.facebook.com/LACALACATaqueriaMexicana/</string>
+    <string name="margoth_link">https://www.facebook.com/tipicosmargoth/</string>
+    <string name="donde_leo_link">https://www.facebook.com/leococinamediterranea/</string>
+    <string name="picasso_link">https://www.facebook.com/pages/Picasso/1447394805495836?hc_ref=SEARCH</string>
+
+    <!-- Shopping mall names. -->
+    <string name="gran_via">La Gran Vía</string>
+    <string name="multiplaza">Multiplaza</string>
+    <string name="plaza_merliot">Plaza Merliot</string>
+    <string name="galerias">Galerías</string>
+    <string name="metro">Metrocentro</string>
+    <string name="cascadas">Las Cascadas</string>
+    <string name="paseo">El Paseo</string>
+    <string name="artesanias">Mercado de Artesanías Ex-Cuartel</string>
+
+    <!-- Shopping mall price range. -->
+    <string name="gran_via_price">$$ - $$$$</string>
+    <string name="multiplaza_price">$$ - $$$$</string>
+    <string name="plaza_merliot_price">$ - $$$</string>
+    <string name="galerias_price">$$ - $$$$</string>
+    <string name="metro_price">$ - $$$</string>
+    <string name="cascadas_price">$$ - $$$</string>
+    <string name="paseo_price">$$ - $$$$</string>
+    <string name="artesanias_price">$</string>
+
+    <!-- Shopping mall description. -->
+    <string name="gran_via_type">Stores, restaurants, movie theater, mini golf course</string>
+    <string name="multiplaza_type">Stores, restaurants, super market, movie theater</string>
+    <string name="plaza_merliot_type">Stores, restaurants, super market</string>
+    <string name="galerias_type">Stores, restaurants, beauty salons, barber shops</string>
+    <string name="metro_type">Stores, restaurants, movie theater, beauty salons, barber shops</string>
+    <string name="cascadas_type">Stores, restaurants, super market, beauty salons, barber shops</string>
+    <string name="paseo_type">Stores, restaurants, super market</string>
+    <string name="artesanias_type">local typical hand made products</string>
+
+    <!-- Shopping mall links. -->
+    <string name="gran_via_link">https://www.facebook.com/lagranviaelsalvador/</string>
+    <string name="multiplaza_link">https://www.facebook.com/multiplazaelsalvador/</string>
+    <string name="plaza_merliot_link">https://www.facebook.com/PlazaMerliot.sv/</string>
+    <string name="galerias_link">https://www.facebook.com/galeriassv/</string>
+    <string name="metro_link">https://www.facebook.com/MetrocentroElSalvador/</string>
+    <string name="cascadas_link">https://www.facebook.com/cccascadas/?hc_ref=SEARCH</string>
+    <string name="paseo_link">https://www.facebook.com/CC.ElPaseo/</string>
+    <string name="artesanias_link">https://www.facebook.com/pages/Mercado-de-Artesanias-Ex-Cuartel/240074426044048/</string>
+
+    <!-- Churches and cathedral names. -->
+    <string name="rosario">Iglesia El Rosario</string>
+    <string name="metropolitana">Catedral Metropolitana</string>
+    <string name="divina_providencia">Hospital Divina Providencia Chapel</string>
+    <string name="calvario">Iglesia El Calvario</string>
+    <string name="guadalupe">Basílica de la Ceiba de Nuestra Señora de Guadalupe</string>
+    <string name="sagrado_corazon">Basílica Sagrado Corazón de Jesús</string>
+
+    <!-- Churches and cathedral description. -->
+    <string name="rosario_type">Church, concrete, steel and stained glass</string>
+    <string name="metropolitana_type">Cathedral, historical, remains of Blessed Oscar Romero</string>
+    <string name="divina_providencia_type">Chapel, historical site, where Blessed oscar Romero lived and was shot </string>
+    <string name="calvario_type">Church, stained glass, traditional catholic ornaments and icons</string>
+    <string name="guadalupe_type">Basilica, architecture</string>
+    <string name="sagrado_corazon_type">Basilica, architecture</string>
+
+    <!-- Churches and cathedral links. -->
+    <string name="rosario_link">https://www.tripadvisor.com/Attraction_Review-g294476-d2300192-Reviews-Iglesia_El_Rosario-San_Salvador_San_Salvador_Department.html</string>
+    <string name="metropolitana_link">https://www.tripadvisor.com/Attraction_Review-g294476-d555045-Reviews-Catedral_Metropolitana-San_Salvador_San_Salvador_Department.html</string>
+    <string name="divina_providencia_link">https://www.tripadvisor.com/Attraction_Review-g294476-d2642854-Reviews-Hospital_Divina_Providencia_Chapel-San_Salvador_San_Salvador_Department.html</string>
+    <string name="calvario_link">https://www.tripadvisor.com/Attraction_Review-g294476-d3941495-Reviews-Iglesia_del_Calvario-San_Salvador_San_Salvador_Department.html</string>
+    <string name="guadalupe_link">https://www.tripadvisor.com/Attraction_Review-g294476-d10295579-Reviews-Basilica_de_la_Ceiba_de_Nuestra_Senora_de_Guadalupe-San_Salvador_San_Salvador_De.html</string>
+    <string name="sagrado_corazon_link">https://www.tripadvisor.com/Attraction_Review-g294476-d7382139-Reviews-Basilica_Sagrado_Corazon_de_Jesus-San_Salvador_San_Salvador_Department.html</string>
+
+    <!-- Outdoors names. -->
+    <string name="boqueron">El Boquerón National Park</string>
+    <string name="volcan_ss">San Salvador Volcano</string>
+    <string name="jardin_botanico">Jardín Botánico La Laguna</string>
+    <string name="ilopango">Lake Ilopango</string>
+    <string name="bicentenario">Bicentenario Park</string>
+    <string name="mirador">Mirador Municipal José Antonio Rodríguez Porth </string>
+
+    <!-- Outdoors type. -->
+    <string name="boqueron_type">San Salvador Volcano crater</string>
+    <string name="volcan_ss_type">Volcano also known as Quezaltepeque Volcano</string>
+    <string name="jardin_botanico_type">Botanical garden</string>
+    <string name="ilopango_type">Largest lake in the country, volcanic origin</string>
+    <string name="bicentenario_type">91 ha of vegetated areas, cemented pathways and playgrounds</string>
+    <string name="mirador_type">Municipal lookout of San Salvador city</string>
+
+    <!-- Outdoors links. -->
+    <string name="boqueron_link">https://www.tripadvisor.com/Attraction_Review-g294476-d2540141-Reviews-Parque_Nacional_El_Boqueron-San_Salvador_San_Salvador_Department.html</string>
+    <string name="volcan_ss_link">https://www.tripadvisor.com/Attraction_Review-g294476-d7682552-Reviews-Volcan_San_Salvador-San_Salvador_San_Salvador_Department.html</string>
+    <string name="jardin_botanico_link">https://www.tripadvisor.com/Attraction_Review-g294476-d2300206-Reviews-Jardin_Botanico_La_Laguna-San_Salvador_San_Salvador_Department.html</string>
+    <string name="ilopango_link">https://www.tripadvisor.com/Attraction_Review-g294476-d2536181-Reviews-Lake_Ilopango-San_Salvador_San_Salvador_Department.html</string>
+    <string name="bicentenario_link">https://www.tripadvisor.com/Attraction_Review-g294476-d2509031-Reviews-Bicentennial_Park-San_Salvador_San_Salvador_Department.html</string>
+    <string name="mirador_link">https://www.tripadvisor.com/Attraction_Review-g294476-d9841679-Reviews-Mirador_Municipal_Jose_Antonio_Rodriguez_Porth-San_Salvador_San_Salvador_Departme.html</string>
+
+</resources>
